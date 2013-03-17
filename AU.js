@@ -1,0 +1,22 @@
+module.exports={
+	base:{
+		revision:"",
+		repo_url:"https://github.com/E5-Geo-Appliance/e5-country-au"
+	},
+	ACT:{
+		revision:"",
+		repo_url:"git://github.com/E5-Geo-Appliance/e5-local-au-act.git"
+	},
+	NSW:{
+		revision:"",
+		repo_url:"git://github.com/E5-Geo-Appliance/e5-local-au-nsw.git"
+	},
+	VIC:{
+		revision:"",
+		repo_url:"git://github.com/E5-Geo-Appliance/e5-local-au-vic.git"
+	},
+	QLD:{
+		revision:"",
+		repo_url:"git://github.com/E5-Geo-Appliance/e5-local-au-qld.git"
+	}
+};
